@@ -21,4 +21,4 @@ Sommaire:
 >  1. Développement de l'embryon dans le Coran ;
 >  1. Conclusion
 
-*NB*: ce docement est pour le moment en `fr` et en cours de développement. De nouveaux arguments en plusieurs seront bientôt ajoutés.
+*NB*: ce docement est pour le moment en `fr` et en cours de développement. De nouveaux arguments seront bientôt ajoutés.
